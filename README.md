@@ -48,7 +48,6 @@ Replace `content` image with the path to your content image and `style` image wi
 
 - `--content`: Path to the content image.
 - `--style`: Path to the style image.
-- `--output`: Path to save the stylized image.
 - `--num_steps`: Number of optimization steps (default: 2501).
 - `--style_weight`: Weight for the style loss (default: 1000000).
 - `--content_weight`: Weight for the content loss (default: 1).
